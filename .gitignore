@@ -235,3 +235,4 @@ todo/
 # windsurf rules
 .windsurfrules
 .private
+.env.txt
